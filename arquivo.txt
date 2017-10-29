@@ -1,3 +1,7 @@
+Sincronização remota usando github. (Mas minhas aletrações são públicas!)
+
+
+
 Olá mundo!
 O mundo do GIT!
 Alterado.
